@@ -33,3 +33,17 @@ echo "    |    |     | |  \_| |  \_| __|__ |_____  |    \_"
 echo "                                                     "
 echo -e "$RESET"
 ```
+## OR THIS MESSAGE
+```
+# Custom Message
+echo "Welcome to My Linux System!"
+
+# ASCII Art Banner
+echo "  __  __             ____        _   _"
+echo " |  \/  | ___  _ __ | __ )  ___ | |_| |_ _   _"
+echo " | |\/| |/ _ \| '_ \|  _ \ / _ \| __| __| | | |"
+echo " | |  | | (_) | | | | |_) | (_) | |_| |_| |_| |"
+echo " |_|  |_|\___/|_| |_|____/ \___/ \__|\__|\__, |"
+echo "                                        |___/"
+
+```
